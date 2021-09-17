@@ -28,22 +28,6 @@ To Run from IDE
 To Run from command-line
 -   In the project directory use "mvn clean test" command to start execution
 
-### Break down into end to end tests
-
-Below are the scenarios which I have tried to cover and present in "ApplicationPracticeTest.java" file
-
-```
--   Verify Application Login Functionality
--   Verify Search functionality
--   Verify Logout Functionality
-
-```
-
-### And coding style tests
-
-I have used testNG and its annotation to write the automation test
-
-
 ## Authors
 
 * **Vinaykumar Gupta**
